@@ -1,0 +1,39 @@
+{
+  "id": "qahwa-games",
+  "name": "قهوة - ألعاب مع الأصحاب",
+  "short_name": "قهوة",
+  "description": "ألعاب ممتعة مع أصحابك",
+  "start_url": "/",
+
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#6C63FF",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/6QPJ2J7n/Picsart-26-03-14-05-24-32-420.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/6QPJ2J7n/Picsart-26-03-14-05-24-32-420.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://i.postimg.cc/6QPJ2J7n/Picsart-26-03-14-05-24-32-420.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "الشاشة الرئيسية"
+    }
+  ]
+}
